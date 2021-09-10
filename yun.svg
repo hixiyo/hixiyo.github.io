@@ -2,11 +2,11 @@
     <style>
         #yun-logo {
             stroke: black;
-        }
+            }
 
-        @media (prefers-color-scheme: dark) {
+            @media (prefers-color-scheme: blue) {
             #yun-logo {
-                stroke: white;
+            stroke: white;
             }
         }
     </style>
